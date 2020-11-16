@@ -1,0 +1,15 @@
+face_recognition_models
+Click>=6.0
+dlib>=19.3.0
+numpy~=1.19.1
+Pillow~=7.2.0
+scipy>=0.17.0
+
+opencv-python~=4.2.0.32
+matplotlib~=3.3.0
+scikit-learn~=0.23.2
+torch~=1.5.0+cu101
+torchvision~=0.6.0+cu101
+joblib~=0.16.0
+keyboard~=0.13.5
+setuptools~=49.6.0
